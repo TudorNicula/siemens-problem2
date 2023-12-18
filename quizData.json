@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "Care este unitatea de măsură a forței?",
+    "options": [
+      "Watt",
+      "Newton",
+      "Joule",
+      "Volt"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "id": 2,
+    "question": "Ce proces chimic convertește glucoza în energie în celulele noastre?",
+    "options": [
+      "Fotosinteza",
+      "Oxidarea",
+      "Fermentația",
+      "Respirația celulară"
+    ],
+    "answer": "Respirația celulară"
+  },
+  {
+    "id": 3,
+    "question": "Care dintre următoarele nu este o planetă a sistemului solar?",
+    "options": [
+      "Marte",
+      "Luna",
+      "Saturn",
+      "Venus"
+    ],
+    "answer": "Luna"
+  },
+  {
+    "id": 4,
+    "question": "Care este procesul prin care apa se transformă în stare gazoasă?",
+    "options": [
+      "Condensarea",
+      "Evaporarea",
+      "Solidificarea",
+      "Sublimarea"
+    ],
+    "answer": "Evaporarea"
+  },
+  {
+    "id": 5,
+    "question": "Care dintre următorii termeni se referă la unitatea fundamentală de moștenire genetică?",
+    "options": [
+      "Celula",
+      "Cromozom",
+      "Gen",
+      "ADN"
+    ],
+    "answer": "Gen"
+  },
+  {
+    "id": 6,
+    "question": "Care a fost primul președinte al Statelor Unite ale Americii?",
+    "options": [
+      "John Adams",
+      "Thomas Jefferson",
+      "George Washington",
+      "James Madison"
+    ],
+    "answer": "George Washington"
+  },
+  {
+    "id": 7,
+    "question": "În ce an a avut loc Revoluția Franceză?",
+    "options": [
+      "1789",
+      "1804",
+      "1776",
+      "1815"
+    ],
+    "answer": "1789"
+  },
+  {
+    "id": 8,
+    "question": "Ce eveniment a marcat sfârșitul celui de-Al Doilea Război Mondial în Europa?",
+    "options": [
+      "Bătălia de la Stalingrad",
+      "Debarcarea în Normandia",
+      "Conferința de la Yalta",
+      "Capitularea Germaniei naziste"
+    ],
+    "answer": "Conferința de la Yalta"
+  },
+  {
+    "id": 9,
+    "question": "Cine a scris Romeo și Julieta?",
+    "options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 10,
+    "question": "Care a fost primul om care a călătorit în spațiu?",
+    "options": [
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Alan Shepard"
+    ],
+    "answer": "Yuri Gagarin"
+  },
+  {
+    "id": 11,
+    "question": "Care este valoarea lui π (pi)?",
+    "options": [
+      "3.14",
+      "3.1416",
+      "3.14159",
+      "3.14159265359"
+    ],
+    "answer": "3.14"
+  },
+  {
+    "id": 12,
+    "question": "Ce este radicalul unui numar?",
+    "options": [
+      "O rădăcină pătrată a unui număr",
+      "Partea întreagă a unui număr",
+      "Un număr ridicat la putere",
+      "O expresie matematică"
+    ],
+    "answer": "O rădăcină pătrată a unui număr"
+  },
+  {
+    "id": 13,
+    "question": "Care este numărul celor care nu sunt numere prime între 1 și 10?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 14,
+    "question": "Ce reprezintă un număr întreg?",
+    "options": [
+      "Orice număr real",
+      "Un număr fără parte fracționară",
+      "Un număr fără parte întreagă",
+      "Orice număr natural"
+    ],
+    "answer": "Un număr fără parte fracționară"
+  },
+  {
+    "id": 15,
+    "question": "Care este rezultatul înmulțirii a două numere negative?",
+    "options": [
+      "Un număr negativs",
+      "Un număr pozitiv",
+      "Depinde de numerele în sine",
+      "Tot timpul zero"
+    ],
+    "answer": "Un număr pozitiv"
+  },
+  {
+    "id": 16,
+    "question": "Care organ este considerat „centrul de comandă” al unei celule?",
+    "options": [
+      "Mitochondria",
+      "Endoplasmic reticulum",
+      "Nucleus",
+      "Golgi Apparatus"
+    ],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 17,
+    "question": "Care dintre următoarele este un organ al sistemului respirator?",
+    "options": [
+      "Inima",
+      "Plămânul",
+      "Rinichii",
+      "Stomacul"
+    ],
+    "answer": "Plămânul"
+  },
+  {
+    "id": 18,
+    "question": "Ce substanță este responsabilă pentru transmiterea impulsurilor nervoase?",
+    "options": [
+      "Insulină",
+      "Dopamină",
+      "Serotonină",
+      "Neuronii"
+    ],
+    "answer": "Neuronii"
+  },
+  {
+    "id": 19,
+    "question": "Ce proces permite plantei să producă energie din lumină solară?",
+    "options": [
+      "Fotosinteza",
+      "Transpirația",
+      "Respirația",
+      "Fermentația"
+    ],
+    "answer": "Fermentația"
+  },
+  {
+    "id": 20,
+    "question": "Care este cea mai mare glandă din corpul uman?",
+    "options": [
+      "Glanda tiroidă",
+      "Glanda pituitară",
+      "Glanda suprarenală",
+      "Ficatul"
+    ],
+    "answer": "Ficatul"
+  },
+  {
+    "id": 21,
+    "question": "Care este cea mai mică unitate a materiei?",
+    "options": [
+      "Atom",
+      "Moleculă",
+      "Electromagnet",
+      "Proton"
+    ],
+    "answer": "Atom"
+  },
+  {
+    "id": 22,
+    "question": "Care dintre următoarele este un gaz cu efect de seră?",
+    "options": [
+      "Oxigen",
+      "Azot",
+      "Hidrogen",
+      "Dioxid de carbon"
+    ],
+    "answer": "Dioxid de carbon"
+  },
+  {
+    "id": 23,
+    "question": "Ce proces reglează temperatura corpului la mamifere și păsări?",
+    "options": [
+      "Digestia",
+      "Respirația",
+      "Homeostazia",
+      "Fotosinteza"
+    ],
+    "answer": "Homeostazia"
+  },
+  {
+    "id": 24,
+    "question": "Care a fost primul canal de navigație construit de om?",
+    "options": [
+      "Canalul Panama",
+      "Canalul Suez",
+      "Canalul Erie",
+      "Canalul Fossa Corbului"
+    ],
+    "answer": "Canalul Fossa Corbului"
+  },
+  {
+    "id": 25,
+    "question": "Cine a fost împăratul Romanului în timpul construirii Marelui Zid Chinezesc?",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Qin Shi Huang",
+      "Traian"
+    ],
+    "answer": "Qin Shi Huang"
+  },
+  {
+    "id": 26,
+    "question": "Cine a fost primul om care a pus piciorul pe Lună?",
+    "options": [
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Buzz Aldrin",
+      "Nikola Tesla"
+    ],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "id": 27,
+    "question": "Ce reprezintă logaritmul unui număr?",
+    "options": [
+      "Puterea la care trebuie ridicat un anumit număr pentru a obține alt număr dat",
+      "Radicalul acelui număr",
+      "Divizarea acelui număr la o putere specifică",
+      "Rezultatul adunării a două numere"
+    ],
+    "answer": "Puterea la care trebuie ridicat un anumit număr pentru a obține alt număr dat"
+  },
+  {
+    "id": 28,
+    "question": "Care este diferența dintre mediană și mod într-un set de date?",
+    "options": [
+      "Media este cel mai frecvent număr din set, iar mediana este suma totală a datelor.",
+      "Mediana este valoarea centrală din set, iar modul este cel mai frecvent număr din set.",
+      "Mediana este suma datelor împărțită la numărul total de date, iar modulul este valoarea maximă din set.",
+      "Nu există nicio diferență între mediană și mod."
+    ],
+    "answer": "Mediana este valoarea centrală din set, iar modul este cel mai frecvent număr din set."
+  },
+  {
+    "id": 29,
+    "question": "Care este numărul de laturi ale unui pentagon?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 30,
+    "question": "Care parte a creierului este responsabilă pentru controlul coordonării și echilibrului?",
+    "options": [
+      "Cerebelul",
+      "Hipotalamusul",
+      "Lobul frontal",
+      "Trunchiul cerebral"
+    ],
+    "answer": "Cerebelul"
+  },
+  {
+    "id": 31,
+    "question": "Ce reprezintă ADN-ul?",
+    "options": [
+      "Acid desoxiribonucleic",
+      "Acid ribonucleic",
+      "Proteinele structurale din celule",
+      "Lipidele din membrana celulară"
+    ],
+    "answer": "Acid desoxiribonucleic"
+  },
+  {
+    "id": 32,
+    "question": "Ce proces permite plantei să absoarbă apă și substanțe nutritive din sol?",
+    "options": [
+      "Transpirația",
+      "Fotosinteza",
+      "Osmoza",
+      "Respirația"
+    ],
+    "answer": "Osmoza"
+  },
+  {
+    "id": 33,
+    "question": "Care dintre următoarele este o planetă telurică?",
+    "options": [
+      "Jupiter",
+      "Marte",
+      "Saturn",
+      "Uranus"
+    ],
+    "answer": "Marte"
+  },
+  {
+    "id": 34,
+    "question": "Care este procesul prin care plantele folosesc lumina solară pentru a produce energie?",
+    "options": [
+      "Transpirația",
+      "Fermentația",
+      "Fotosinteza",
+      "Respirația"
+    ],
+    "answer": "Fotosinteza"
+  },
+  {
+    "id": 35,
+    "question": "Ce este spectrul electromagnetic?",
+    "options": [
+      "Un tip de undă sonoră",
+      "Un model al atomului",
+      "O gamă completă de unde electromagnetice, incluzând lumina vizibilă, infraroșu și ultraviolet",
+      "Un tip de radiație cosmică"
+    ],
+    "answer": "O gamă completă de unde electromagnetice, incluzând lumina vizibilă, infraroșu și ultraviolet"
+  },
+  {
+    "id": 36,
+    "question": "Care a fost primul imperiu din istoria antică?",
+    "options": [
+      "Imperiul Egiptean",
+      "Imperiul Babilonian",
+      "Imperiul Asirian",
+      "Imperiul Akkadian"
+    ],
+    "answer": "Imperiul Akkadian"
+  },
+  {
+    "id": 37,
+    "question": "Cine a fost cunoscut ca fiind „părintele geometriei”?",
+    "options": [
+      "Euclid",
+      "Aristotel",
+      "Socrates",
+      "Pythagoras"
+    ],
+    "answer": "Pythagoras"
+  },
+  {
+    "id": 38,
+    "question": "Care a fost numele primei femei care a câștigat Premiul Nobel pentru Fizică?",
+    "options": [
+      "Maria Curie",
+      "Marie Curie",
+      "Ada Lovelace",
+      "Rosalind Franklin"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "id": 39,
+    "question": "Care este rezultatul adunării tuturor unghiurilor dintr-un triunghi?",
+    "options": [
+      "90 de grade",
+      "180 de grade",
+      "360 de grade",
+      "270 de grade"
+    ],
+    "answer": "360 de grade"
+  },
+  {
+    "id": 40,
+    "question": "Ce reprezintă o proporție?",
+    "options": [
+      "Un raport între două cantități egale",
+      "O comparație între două mărimi diferite",
+      "O egalitate a două rapoarte",
+      "Un număr întreg"
+    ],
+    "answer": "O egalitate a două rapoarte"
+  },
+  {
+    "id": 41,
+    "question": "Care este teorema lui Gauss care leagă suprafața unei sfere cu volumul său?",
+    "options": [
+      "Teorema lui Newton",
+      "Teorema lui Stokes",
+      "Teorema lui Pythagoras",
+      "Teorema lui Archimedes"
+    ],
+    "answer": "Teorema lui Stokes"
+  },
+  {
+    "id": 42,
+    "question": "Ce este mitoza?",
+    "options": [
+      "Procesul de diviziune celulară care produce celule reproductive (gamete).",
+      "Procesul de diviziune celulară care produce două celule identice la celula inițială.",
+      "Procesul prin care o celulă devine specializată pentru o funcție specifică.",
+      "Niciuna dintre opțiunile de mai sus."
+    ],
+    "answer": "Procesul de diviziune celulară care produce două celule identice la celula inițială."
+  },
+  {
+    "id": 43,
+    "question": "Ce substanță chimică din plante conferă culoarea lor verde?",
+    "options": [
+      "Xilan",
+      "Lignin",
+      "Clorofilă",
+      "Pectin"
+    ],
+    "answer": "Clorofilă"
+  },
+  {
+    "id": 44,
+    "question": "Care dintre următoarele nu este o clasificare a țesuturilor animale?",
+    "options": [
+      "Epitelial",
+      "Muscular",
+      "Pectoral",
+      "Nervos"
+    ],
+    "answer": "Pectoral"
+  },
+  {
+    "id": 45,
+    "question": "Care proces chimic transformă lumina în energie în plante?",
+    "options": [
+      "Fotosinteza",
+      "Fermentația",
+      "Respirația",
+      "Sublimarea"
+    ],
+    "answer": "Fotosinteza"
+  },
+  {
+    "id": 46,
+    "question": "Care conflict a dus la prăbușirea Imperiului Roman de Apus?",
+    "options": [
+      "Războiul Troian",
+      "Migrațiile barbarilor",
+      "Războiul Punic",
+      "Invazia Mongolă"
+    ],
+    "answer": "Migrațiile barbarilor"
+  },
+  {
+    "id": 47,
+    "question": "Ce reprezintă rădăcina pătrată a unui număr negativ?",
+    "options": [
+      "Un număr real",
+      "Un număr imaginar",
+      "Un număr complex",
+      "Zero"
+    ],
+    "answer": "Un număr complex"
+  },
+  {
+    "id": 48,
+    "question": "Ce parte a plantei este responsabilă pentru absorbția apei și a nutrienților din sol?",
+    "options": [
+      "Rădăcina",
+      "Frunzele",
+      "Tulpina",
+      "Floarea"
+    ],
+    "answer": "Rădăcina"
+  },
+  {
+    "id": 49,
+    "question": "Care este procesul prin care un gaz se transformă direct în stare solidă?",
+    "options": [
+      "Evaporare",
+      "Condensare",
+      "Sublimare",
+      "Fusionare"
+    ],
+    "answer": "Sublimare"
+  },
+  {
+    "id": 50,
+    "question": "Cine a inventat telefonul fix?",
+    "options": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Albert Einstein",
+      "Nikola Tesla"
+    ],
+    "answer": "Alexander Graham Bell"
+  }
+]
